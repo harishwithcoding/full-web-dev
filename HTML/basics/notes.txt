@@ -1,0 +1,5 @@
+Hey...
+Today i learn what is html( Hypertext Markup Language ) and what is head, body tag
+In head tag we write our title and meta tags.
+And the main work we done that is all written in body tag like: <h1>Hello World</h1>
+All the website that is visible to us is written in body tag.
